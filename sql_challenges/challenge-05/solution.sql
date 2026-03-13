@@ -6,7 +6,7 @@ select colour from your_brick_collection
 order by colour;
 
 select shape from my_brick_collection
-union all
+union all,
 select shape from your_brick_collection
 order  by shape;
 

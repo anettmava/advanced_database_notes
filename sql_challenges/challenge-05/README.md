@@ -1,5 +1,4 @@
+Today's Challenge
+de freesql.com
+
 Union, Minus, and Intersect: Databases for Developers
-
-From datalemur
-
-https://datalemur.com/questions/sql-top-three-salaries
