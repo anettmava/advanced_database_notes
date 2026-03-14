@@ -3,7 +3,7 @@ Complete this query to return a list of all the colours in the two tables. Each 
 select colour from my_brick_collection
 union 
 select colour from your_brick_collection
-order by colour;
+order by colour; -
 
 select shape from my_brick_collection
 union all,
